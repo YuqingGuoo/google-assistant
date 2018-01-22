@@ -79,8 +79,8 @@ ___
  
  ![screenshot 10](https://user-images.githubusercontent.com/34485667/34896129-9752dfb4-f80e-11e7-97cd-d6325e990769.png)
 
-Login to your Account go on Applets Create Applets Accordingly Choosing triggers as Alexa & Google Assistant respectively 
-and response as Adafruit IO and select Appropriate feeds. Finally Switch on your Applets & you are done
+Login to your Account go on Applets Create Applets Accordingly Choosing triggers as Google Assistant & Adafruit respectively 
+and response as Adafruit & Notification, and select Appropriate feeds. Finally Switch on your Applets & you are done
 
 ![screenshot 13](https://user-images.githubusercontent.com/34485667/35231840-d718c2b8-ffbf-11e7-818c-c3574438d1cf.png)
 
