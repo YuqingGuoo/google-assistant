@@ -63,7 +63,7 @@ ___
 First take above two libraries file provided by vendors itself which are Arduino & Adafruit and put them in the <b>Libraries</b>
 folder inside your Arduino folder. 
 
-Open mqtt.ino & put your Router SSID & Password , also put your AIO username & Key into it. Connect your NodeMCU to your computer and go to <b>tools > Port</b> 
+Open garagedate.ino & put your Router SSID & Password , also put your AIO username & Key into it. Connect your NodeMCU to your computer and go to <b>tools > Port</b> 
 and select COM port and compile & load the code to your dev. board
 
 Set Baud Rate of Serial Monitor 115200 for syncing Serial Communication.
